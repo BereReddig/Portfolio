@@ -4,6 +4,7 @@ section.portfolio {
 
 .portfolio-title {
     color: #393E46;
+    text-decoration: underline;
 }
 
 .portfolio-container {
