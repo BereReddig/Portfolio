@@ -5,7 +5,7 @@ import { projects_data } from "../../assets/data/projects_data";
 
 const Portfolio = () => {
     return (
-        <>
+        <section className='portfolio'>
             <h2 className='portfolio-title'>Portfolio</h2>
             <div className='portfolio-container'>
                 {projects_data.map((item, index) => {
@@ -18,7 +18,7 @@ const Portfolio = () => {
                     );
                 })}
             </div>
-        </>
+        </section>
     );
 }
 

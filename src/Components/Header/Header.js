@@ -5,7 +5,7 @@ import myPicture from '../../assets/img/IMG-20210906-WA0046.jpg';
 
 const Header = () => {
     return (
-        <section className=''>
+        <section className='header'>
             <header>
                 <div className='photo'>
                     <img src={myPicture} alt='picture of bere'/>
