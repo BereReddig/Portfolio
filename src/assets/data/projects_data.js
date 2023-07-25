@@ -18,6 +18,47 @@ import landing8 from '../img/project_images/landing8.png';
 
 export const projects_data = [
     {
+        projectName: 'Movie App',
+        img_src: `${landing8}`,
+        projectLink: 'https://happy-hawking-f367f6.netlify.app/'
+    },
+    {
+        projectName: 'Landing 1',
+        img_src: `${landing1}`,
+        projectLink: 'https://kind-mcclintock-58e8f4.netlify.app/'
+    },
+    {
+        projectName: 'Landing 2',
+        img_src: `${landing2}`,
+        projectLink: 'https://trusting-sinoussi-572773.netlify.app/'
+    },
+    {
+        projectName: 'Landing 3',
+        img_src: `${landing3}`,
+        projectLink: 'https://determined-lewin-79f9f5.netlify.app/'
+    },
+    {
+        projectName: 'Landing 4',
+        img_src: `${landing4}`,
+        projectLink: 'https://upbeat-ride-256506.netlify.app/'
+    },
+    {
+        projectName: 'Landing 5',
+        img_src: `${landing5}`,
+        projectLink: 'https://trusting-leavitt-e3de76.netlify.app/'
+    },
+    {
+        projectName: 'Landing 6',
+        img_src: `${landing6}`,
+        projectLink: 'https://time-tracker-react.netlify.app/'
+    },
+    {
+        projectName: 'Landing 7',
+        img_src: `${landing7}`,
+        projectLink: 'https://romantic-joliot-dc7fe1.netlify.app/'
+    }
+    ,
+    {
         projectName: 'Card 1',
         img_src: `${card1}`,
         projectLink: 'https://optimistic-saha-059114.netlify.app/'
@@ -61,46 +102,5 @@ export const projects_data = [
         projectName: 'Card 9',
         img_src: `${card9}`,
         projectLink: 'https://stoic-heyrovsky-4dce95.netlify.app/'
-    },
-    {
-        projectName: 'Landing 1',
-        img_src: `${landing1}`,
-        projectLink: 'https://kind-mcclintock-58e8f4.netlify.app/'
-    },
-    {
-        projectName: 'Landing 2',
-        img_src: `${landing2}`,
-        projectLink: 'https://trusting-sinoussi-572773.netlify.app/'
-    },
-    {
-        projectName: 'Landing 3',
-        img_src: `${landing3}`,
-        projectLink: 'https://determined-lewin-79f9f5.netlify.app/'
-    },
-    {
-        projectName: 'Landing 4',
-        img_src: `${landing4}`,
-        projectLink: 'https://upbeat-ride-256506.netlify.app/'
-    },
-    {
-        projectName: 'Landing 5',
-        img_src: `${landing5}`,
-        projectLink: 'https://trusting-leavitt-e3de76.netlify.app/'
-    },
-    {
-        projectName: 'Landing 6',
-        img_src: `${landing6}`,
-        projectLink: 'https://time-tracker-react.netlify.app/'
-    },
-    {
-        projectName: 'Landing 7',
-        img_src: `${landing7}`,
-        projectLink: 'https://romantic-joliot-dc7fe1.netlify.app/'
-    }
-    ,
-    {
-        projectName: 'Movie App',
-        img_src: `${landing8}`,
-        projectLink: 'https://happy-hawking-f367f6.netlify.app/'
     }
 ];
